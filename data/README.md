@@ -1,0 +1,5 @@
+we adopt the following user story model: As a <Role>, I want <Task>, So that <$Hard-goal>. Each concept is associated with a specific syntax and semantics, which are matched as follows:
+
+Role is an abstract representation of the behavior of users or stakeholders in a certain situation;}
+Task refers to the operation method of achieving goal, which is part of the solution domain;}
+Goal is a state or goal that you want to achieve and is part of the problem domain. Goal is divided into two parts: Hard-goal and Soft-goal. Goal is defined as Hard-goal from the perspective of stakeholders, while as soft-goal from the perspective of actors. Goal can be achieved through Task or Capability, and it can be judged whether hard-goal is achieved. By contrast, Soft-goal does not have a clear standard for whether it is achieved, and it is up to the developer to judge whether soft-goal is fully achieved. \yb{Capability refers to the ability of participants to achieve goals when certain conditions are given. It can be regarded as an atomic Task.
