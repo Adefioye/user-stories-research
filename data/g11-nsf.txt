@@ -1,4 +1,3 @@
-
 As a team member I want to see the first iteration of beta up on cloud gov
 As a developer I want to have the subdomain beta nsf gov be set up  so that I can deploy a beta site to it 
 As a stakeholder I want to have a decision on whether or not the blog aggregator may work for beta  and if not what will 

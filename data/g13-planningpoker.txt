@@ -1,4 +1,3 @@
-
 As a moderator I want to see all items we try to estimate this session  so that I can answer questions about the current story such as  does this include ___
 As a moderator I want to select an item to be estimated or re-estimated  so that the team sees that item and can estimate it 
 As a moderator I want to add an item to the list of items to be estimated  so that so that we can be flexible and accommodate situations where we think of a new story while playing 

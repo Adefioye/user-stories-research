@@ -1,4 +1,3 @@
-
 As a user I want to be able to enter my zip code and get a list of nearby recycling facilities  so that I can determine which ones I should consider
 As a user I want to be able to get the hours of each recycling facility  so that I can arrange drop-offs on my off days or during after-work hours 
 As a user I want to be able to select different types of recyclable waste  so I have and get a list of facilities that accept each type and their opening hours  so that I can find an optimal route and schedule 

@@ -1,4 +1,3 @@
-
 As a Publisher I want to publish a dataset  so that I can view just the dataset with a few people
 As a Publisher I want to publish a dataset  so that I can share the dataset publicly with everyone 
 As a Publisher I want to know what do next after signing up  so that that I can get going quickly 

@@ -1,4 +1,3 @@
-
 As a Developer I want to get a Data Package into Node  so that I can start using the data for doing analysis and visualizations
 As a Researcher I want to get a Data Package into Julia in seconds  so that I can start using the data for doing analysis and visualizations  
 As a Publisher I want to add type information to my data  so that it is more useful to others and can be used better with tools like visualization programs  

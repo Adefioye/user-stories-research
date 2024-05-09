@@ -1,4 +1,3 @@
-
 As a Public User I want to Search for Information  so that I can obtain publicly available information concerning properties  County services  processes and other general information
 As a l Staff member I want to search for Property information  so that I can obtain all associated current and historic owners  permits  and applications 
 As a Staff member I want to Manage Ordinances  so that I can maintain accurate ordinance information in the System 

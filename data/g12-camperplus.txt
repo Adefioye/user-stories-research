@@ -1,4 +1,3 @@
-
 ﻿As a camp administrator I want to be able to add campers  so that I can keep track of each individual camper
 As a camp administrator I want to be able to remove campers if they don't attend the camp anymore  so that I can keep the records organized 
 As a camp administrator I want to be able to keep camper records from previous years  so that the amount of work I need to do is lowered  

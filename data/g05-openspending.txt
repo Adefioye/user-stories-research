@@ -1,4 +1,3 @@
-
 As a Data Publishing User I want to be able to edit a dataset I have published  So that I can correct or enhance existing data
 As a Data Publishing User I want to be able to delete a dataset I have published  So that I can remove unwanted data from OpenSpending 
 As a Platform Administrator I want to be able to Hide any dataset already added as Public  So that I can maintain Public Hidden status for other users 
