@@ -26,6 +26,10 @@ CREATE TABLE "g12-camperplus" (
   mistral_embedding vector,
   phi3_embedding vector
 );
+
+ALTER TABLE "g12-camperplus"
+ADD COLUMN tfidf vector;
+
 ```
 
 
